@@ -1,5 +1,8 @@
 #letter {
   display: none;
+  border: solid black 5px;
+  margin-top: 50px;
+  padding: 10px;
 }
 
 p.letter-body,
