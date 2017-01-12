@@ -1,0 +1,12 @@
+#letter {
+  display: none;
+}
+
+p.letter-body,
+.salutation {
+  text-indent: 50px;
+}
+
+.salutation {
+  font-family: cursive;
+}
